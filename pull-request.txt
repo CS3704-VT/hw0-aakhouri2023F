@@ -1,6 +1,6 @@
 Hi Professor Brown,
 
-I've just finished the GitHub starter course for HW0.
+I've just finished the GitHub starter course for HW0 in CS3704-83365.
 
 Thank you,
 Aaryaman Akhouri
